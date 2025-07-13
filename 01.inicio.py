@@ -4,5 +4,4 @@
 print("Hola mundo") 
 #El resultado saldra en pantalla.
 
-
 print(8+8) #funcion print-imprimir.
