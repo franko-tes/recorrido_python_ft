@@ -9,7 +9,7 @@ print("dia")
 #Variables: nombre, tipo y dato.
 saludo = "Como estas?"
 saludo = "Hello"
-nombre = "Hernan" #no podemos iniciar variables con numeros
+nombre = "Hernan" #no podemos nombrar variables con numeros al comienzo, por ejemplo, "1nombre".
 print(saludo)
 print(nombre)
 
