@@ -30,7 +30,7 @@ print("Salida: Mañana",  end=" ")
 print("lunes")
 
 print("\n--06.Impresion de variables--")
-print("Mostraremos el valor de una variables.")
+print("Mostraremos el valor de una variable.")
 print('''Ejemplo: 
 año = 2025
 mes = enero
